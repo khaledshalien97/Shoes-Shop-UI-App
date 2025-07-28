@@ -1,6 +1,6 @@
 # shoes_shop_app
 
-A new Flutter project.
+Minimal Sneaker Store UI with Hero Animations
 
 
 
@@ -8,9 +8,9 @@ A new Flutter project.
 
 
 ![Detail](assets/screenshot/screen_2.png)
-(assets/screenshot/screen_3.png)
-(assets/screenshot/screen_4.png)
-(assets/screenshot/screen_5.png)
+![Detail](assets/screenshot/screen_3.png)
+![Detail](assets/screenshot/screen_4.png)
+![Detail](assets/screenshot/screen_5.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
