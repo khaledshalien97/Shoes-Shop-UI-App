@@ -4,10 +4,10 @@ A new Flutter project.
 
 
 
-![Home](assets/screenshots/screen_1.png)
+![Home](assets/screenshot/screen_1.png)
 
 
-![Detail](assets/screenshots/screen_2.png)
+![Detail](assets/screenshot/screen_2.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
