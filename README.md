@@ -1,16 +1,18 @@
 # shoes_shop_app
 
-Minimal Sneaker Store UI with Hero Animations
+This Shoe Store App delivers a clean, modern shopping experience designed with Flutter. Browse trending shoes, filter by category, and view detailed product pages with smooth hero animations. Built to showcase elegant UI structure, responsive layouts, and seamless navigation — perfect for e-commerce concepts and design inspiration
 
 
+## Screenshots
 
-![Home](assets/screenshot/screen_1.png)
+<p float="left">
+  <img src="assets/screenshot/screen_1.png" width="250" />
+  <img src="assets/screenshot/screen_2.png" width="250" />
+  <img src="assets/screenshot/screen_3.png" width="250" />
+  <img src="assets/screenshot/screen_4.png" width="250" />
+  <img src="assets/screenshot/screen_5.png" width="250" />
+</p>
 
-
-![Detail](assets/screenshot/screen_2.png)
-![Detail](assets/screenshot/screen_3.png)
-![Detail](assets/screenshot/screen_4.png)
-![Detail](assets/screenshot/screen_5.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
